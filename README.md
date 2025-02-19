@@ -1,9 +1,10 @@
 ## Hi, there 👋 Welcome to my Github!
 
 - 🌱 I’m currently studying about Data Analytics, trying to explain urban and environmental data.
-- 📍 I live in Sao Paulo - SP - Brazil
+- 📍 I live in Sao Paulo - SP - Brazil.
 - 💡 I'm also a consultant specializing in real estate approvals and legalization.
-- ⏳ 20 years analyzing environmental and urban data
+- ⏳ 20 years analyzing environmental and urban data.
+- 🩺 I also have experience analyzing health data.
 - ⚡ Available for work in Brazil and around the world.
 - 🧰 My toolbox:
 
