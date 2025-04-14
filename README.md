@@ -1,11 +1,11 @@
 ## Hi, there 👋 Welcome to my Github!
 
-🌱 I’m a data analyst with solid experience in transforming complex datasets into actionable insights, with a focus on sales, healthcare, real estate, and finance.
-🎯 I develop predictive models and data-driven strategies to support business decision-making and operational efficiency.
-📍 Based in São Paulo - SP, Brazil.
-💡 I also bring a strong background in consulting, with a deep understanding of legal and regulatory frameworks related to the real estate sector.
-📊 Over 20 years of experience working with data in business environments, combining technical skills with strategic thinking.
-⚡ Open to remote work opportunities in Brazil and worldwide.
+- 🌱 I’m a data analyst with solid experience in transforming complex datasets into actionable insights, with a focus on sales, healthcare, real estate, and finance.
+- 🎯 I develop predictive models and data-driven strategies to support business decision-making and operational efficiency.
+- 📍 Based in São Paulo - SP, Brazil.
+- 💡 I also bring a strong background in consulting, with a deep understanding of legal and regulatory frameworks related to the real estate sector.
+- 📊 Over 20 years of experience working with data in business environments, combining technical skills with strategic thinking.
+- ⚡ Open to remote work opportunities in Brazil and worldwide.
 
 🧰 My toolbox:
 
